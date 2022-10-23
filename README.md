@@ -9,7 +9,7 @@ Link para o [canvas](https://miro.com/welcomeonboard/WGNQbm44YUMyTzJ0dVJucUVNUmd
 ## Business Model Canvas
 Link para o [miro](https://miro.com/welcomeonboard/WGNQbm44YUMyTzJ0dVJucUVNUmd5ZUcwS2ZDRUVWQWhLdVJPbmd6Zk9XMklHQnhKbXlJMGNWWW45aktBNU5JRHwzMDc0NDU3MzU2MzA3Mzg1MDM4fDI=?share_link_id=712173061950)
 
-<img src=![image](https://user-images.githubusercontent.com/116168371/197401515-dd682bbf-a47d-46e5-b6f5-b113f3c0fbf9.png)
+<img src=![image]![image](https://user-images.githubusercontent.com/116168371/197401623-b224a84b-4ffa-4daa-a8d7-d311f648f399.png)
      alt="Figura externa"
      style="float: left; margin-right: 10px;" />
 
