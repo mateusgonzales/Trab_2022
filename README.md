@@ -12,7 +12,7 @@ Link para o [miro](https://miro.com/welcomeonboard/WGNQbm44YUMyTzJ0dVJucUVNUmd5Z
 ![image](https://user-images.githubusercontent.com/116168371/197401729-fdcc1b83-9e4e-4a94-a00a-f8940384faa4.png)
 
 ## Video
-Link para o [video](www.youtube.com)
+Link para o video: https://drive.google.com/file/d/1mr0AeI9B0XBPycP5cZKMekdyd5K8AYty/view?usp=sharing
 
 ## Banco de dados
 Link para o banco de dados: [(https://www.kaggle.com/code/kingabzpro/alcoholic-drinks-in-russia-and-design-promotional/notebook)](https://colab.research.google.com/drive/1TJLWeEGb8CdB3Z6Y9d6zLtZdL_742Tfc?usp=sharing)
