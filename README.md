@@ -15,4 +15,4 @@ Link para o [miro](https://miro.com/welcomeonboard/WGNQbm44YUMyTzJ0dVJucUVNUmd5Z
 Link para o [video](www.youtube.com)
 
 ## Banco de dados
-Link para o [banco de dados][(https://www.kaggle.com/code/kingabzpro/alcoholic-drinks-in-russia-and-design-promotional/notebook)](https://colab.research.google.com/drive/1TJLWeEGb8CdB3Z6Y9d6zLtZdL_742Tfc?usp=sharing)
+Link para o banco de dados: [(https://www.kaggle.com/code/kingabzpro/alcoholic-drinks-in-russia-and-design-promotional/notebook)](https://colab.research.google.com/drive/1TJLWeEGb8CdB3Z6Y9d6zLtZdL_742Tfc?usp=sharing)
