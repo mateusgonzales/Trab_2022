@@ -1,10 +1,10 @@
 # Trab_2022
 
-# Tema/Objetivo: Título
+# Tema: Aumento do número de casos de Dengue no primeiro semestre de 2022 em comparação a 2021.
 
 ## Business Model Canvas
-Link para o [canvas](https://canvanizer.com/choose-canvas)
-![figura](https://github.com/Account-onmi-2xplanet/a/blob/main/Business_Model_Canvas.png)
+Link para o [canvas](https://miro.com/welcomeonboard/WGNQbm44YUMyTzJ0dVJucUVNUmd5ZUcwS2ZDRUVWQWhLdVJPbmd6Zk9XMklHQnhKbXlJMGNWWW45aktBNU5JRHwzMDc0NDU3MzU2MzA3Mzg1MDM4fDI=?share_link_id=712173061950)
+![image](https://user-images.githubusercontent.com/116168371/197400258-93d29675-0e1c-45b9-b7dc-f0e29f2befbb.png)
 
 ## Futurismo
 Link para o [miro](https://miro.com/)
